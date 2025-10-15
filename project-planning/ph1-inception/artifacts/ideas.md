@@ -4,7 +4,7 @@ Language:
 - Cursor?
 - 
 Platform:
-- Primaryli Web app
+- Primarily Web app
 - Rule out IOS
 - Others as Optional
 
